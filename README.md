@@ -1,6 +1,6 @@
 # UFOs
 ## Overview
-Using Javascript and HTML, a webpage was created to display a data table about UFO sighting that can be filtered using multiple search criteria.
+Using Javascript and HTML, a webpage was created to display a data table about UFO sightings that can be filtered using multiple search criteria.
 ## Results
 ### Before Filtering
 This is what the data table looks like before entering any search criteria.
